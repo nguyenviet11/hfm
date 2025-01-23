@@ -1,5 +1,101 @@
 {
-    "Index": {
-        "text": "3123123"
-    }
+  "Index": {
+    "home": "Home",
+    "register": "How to Register",
+    "deposit": "Deposit/Withdrawal",
+    "accountType": "Account Type",
+    "regulation": "Regulation",
+    "contact": "Contact",
+    "regulationName": "License",
+    "headOffice": "Headquarters",
+    "foundYear": "Year of Establishment",
+    "tradingProduct": "Trading Products",
+    "feeDifference": "Spread Fee",
+    "lever": "Leverage",
+    "miniumDeposit": "Minimum Deposit",
+    "tradePlatform": "Trading Platforms",
+    "mobileApplication": "Mobile Application",
+    "depositWithdraw": "Deposit and Withdrawal Methods",
+    "support": "Support",
+    "officialWebsite": "Official Website",
+    "regulationNameC2": "CySEC #183/12, FCA #801701, DFSA #F004885, FSA SVG #22747, FSCA #46632, FSC #C110008214, FSA #SD015",
+    "headOfficeC2": "HFM's headquarters are located in Cyprus.",
+    "foundYearC2": "2010",
+    "tradingProductC2": "Forex, Commodities, Precious Metals, Bonds, Energy, ETFs (Exchange-Traded Funds), Indices, Cryptocurrencies, Stocks (Equities)",
+    "feeDifferenceC2": "No overnight fees, no deposit or withdrawal fees",
+    "leverC2": "1:2000",
+    "miniumDepositC2": "$5",
+    "tradePlatformC2": "MT4, MT5, HFM Platform",
+    "mobileApplicationC2": "Supports iOS and Android",
+    "depositWithdrawC2": "Bank Transfer, VISA, Mastercard, Electronic Money, Fastpay, Neteller, Skrill, Bitpay, PayRedeem, Local Bank Transfer, Local Electronic Wallets (Momo Wallet, Nganluong)",
+    "supportC2": "24/5 (Vietnamese support available)",
+    "officialWebsiteC2": "https://www.hfm.com"
+  },
+  "Introduce": {
+    "documentTitle": "HFM | Online Trading | Regulated Forex Broker",
+    "txt1": "Introduction",
+    "txt2": "HFM, formerly known as Hotforex, is a brokerage established in 2010 under the HF Markets Group. The company's headquarters is located in Cyprus, with additional offices in South Africa and Dubai. HFM is also licensed by various financial authorities worldwide. After 10 years of development, HFM has achieved significant milestones, including over 2.5 million registered accounts, 45 industry awards, and a team of more than 200 employees globally.",
+    "txt3": "Account Registration and Payment Methods",
+    "txt4": "The account registration process on HFM is designed to be easy and fast, allowing users to access the market in just a few minutes. Users need to provide personal information, verify their identity, and complete a deposit to start trading. Regarding payment methods, HFM supports various flexible options, including credit cards, bank transfers, e-wallets (Skrill, Neteller), and local payment gateways. All transactions are encrypted to ensure complete safety and security.",
+    "txt5": "Trading Platforms and Tools",
+    "txt6": "HFM supports advanced trading platforms such as MetaTrader 4 (MT4) and MetaTrader 5 (MT5), along with the HFM platform, which features tools like automated trading (EA), technical analysis, and a customizable interface. Additionally, the HFM mobile app allows clients to trade anytime, anywhere. Other trading tools are also available to enhance the trading experience.",
+    "txt7": "Account Types and Trading Conditions",
+    "txt8": "HFM offers several account types to meet the diverse needs of clients, including the Micro Account with a low minimum deposit, ideal for beginners; the Premium Account for experienced traders with competitive spreads and advanced features; the Zero Spread Account offering zero spread on many currency pairs, perfect for short-term strategies; and the Auto Account for those who wish to use automated trading services. HFM also provides Islamic (swap-free) accounts for clients who follow Sharia financial principles.",
+    "txt9": "Trading Instruments",
+    "txt10": "One of HFM's strengths is the range of markets they offer, including 17 trading instruments and over 150 trading products, allowing clients to easily access the global market. These products include Indices, Metals, Energy, Stocks, Commodities, Bonds, ETFs, DMA Stocks, and, due to growing demand, HFM now also provides cryptocurrencies like Bitcoin, Ethereum, Litecoin, Ripple, and more.",
+    "txt11": "Customer Support and Education",
+    "txt12": "HFM provides professional 24/5 customer support services and a rich educational system, including webinars, trading guides, and in-depth articles, to help users improve their financial skills and knowledge.",
+    "copyRight": "All rights reserved"
+  },
+  "Register": {
+    "documentTitle": "HFM - Registration",
+    "register": "Registration",
+    "txt1": "Access the website: Visit the official HFM website at",
+    "txt2": "Fill out the registration information: Click on the 'Open Account' button and provide the necessary personal information such as full name, email address, phone number, and country of residence.",
+    "txt3": "Email verification: After completing the registration form, you will receive a verification email. Click the link in the email to verify your email address.",
+    "txt4": "Activate your account: Log in to your account on the HFM website to activate it.",
+    "txt5": "Identity verification: Provide additional personal information and upload the required documents to verify your identity, such as an ID card or passport, and proof of residence.",
+    "txt6": "Deposit Funds: After your account is successfully verified, you can choose a suitable payment method such as bank transfer, credit card, e-wallet, or cryptocurrency to deposit funds and start trading immediately"
+  },
+  "Deposit": {
+    "documentTitle": "HFM - Deposit/Withdraw",
+    "deposit": "Deposit/Withdraw",
+    "txt1": "Login to myHF: Access the official HFM website and log into the myHF area using your verified login details.",
+    "txt2": "Select deposit method: HFM supports various payment methods such as domestic bank transfers, international credit/debit cards (Visa, Mastercard), and popular e-wallets (Skrill, Neteller).",
+    "txt3": "Enter transaction details: Provide the amount you wish to deposit and carefully review the payment details.",
+    "txt4": "Confirm transaction: The system will display the transaction details for you to double-check before confirming.",
+    "txt5": "Processing time: Deposits will be processed immediately or within a few minutes (depending on the method) with no deposit fees.",
+    "txt6": "Withdraw at HFM",
+    "txt7": "Login to myHF: Access the myHF area and ensure your account is fully verified.",
+    "txt8": "Select withdrawal method: Choose from the secure withdrawal methods that HFM offers, including bank transfer or e-wallet.",
+    "txt9": "Enter withdrawal details: Enter the amount you wish to withdraw and the necessary details, including bank account information (if applicable).",
+    "txt10": "Confirm request: Review everything carefully before submitting your withdrawal request.",
+    "txt11": "Processing time: HFM commits to processing withdrawal requests within one business day, with competitive fees or completely free depending on the method you choose."
+  },
+  "AccountType": {
+    "documentTitle": "HFM - Account Types",
+    "accountType": "Account Types",
+    "txt1": "HFM offers 5 different types of trading accounts, suitable for the diverse needs and trading styles of customers. Below are the details of each account type:",
+    "txt2": "Cent Account: The Cent Account is an ideal choice for beginner traders. With trading platforms including MetaTrader 4, MetaTrader 5, WebTrader, and mobile apps, this account provides a spread starting from 1.2 pips. The currency unit is USC, with a contract size of 1 lot equivalent to 1000 units. The Cent Account does not require a minimum deposit, allowing for trading with the smallest lot size of 0.01 and a maximum leverage of 1:400.",
+    "txt3": "Zero Account: This account is designed for traders looking for low spreads. The Zero Account supports popular trading platforms such as MetaTrader 4, MetaTrader 5, WebTrader, and mobile apps. The spread starts from 0 pips on Forex and includes a commission. This account supports various account currencies such as USD, EUR, NGN, and JPY, with a standard contract size of 1 lot = 100,000 units. No minimum deposit is required, and the maximum leverage goes up to 1:400.",
+    "txt4": "Pro Account: The Pro Account is a popular choice for experienced traders. With spreads starting from 0.6 pips and no commission fees, this account supports all available trading assets at HFM. The minimum deposit is $100 (or equivalent in other currencies such as €100, ₦50,000, ¥13,000). The maximum leverage for the Pro Account is also 1:400, with a standard contract size and supporting trading with a minimum lot size of 0.01.",
+    "txt5": "Premium Account: The Premium Account offers advanced features with additional trading platforms, including HFM's proprietary platform alongside MetaTrader 4, MetaTrader 5, and other platforms. The spread for this account starts from 1.2 pips, and there is no minimum deposit requirement. The maximum leverage is kept at 1:400 with a standard contract size. The Premium Account is ideal for traders who want to experience a flexible trading environment with a full set of supporting tools.",
+    "txt6": "Margin Bonus Account: The Margin Bonus Account is suitable for traders who want to receive bonuses from deposits. The trading platforms for this account include HFM's proprietary platform and other popular platforms such as MetaTrader 4, MetaTrader 5, and WebTrader. The spread starts from 1.4 pips, with no minimum deposit required, but the maximum leverage is limited to 1:170. This account does not offer an overnight fee waiver and does not support personal account management."
+  },
+  "Regulation": {
+    "documentTitle": "HFM - Quy định",
+    "txt1": "Quy định",
+    "txt2": "HFM.com là một thương hiệu và nhãn hiệu đã được đăng ký hợp lệ, được quản lý và ủy quyền bởi nhiều công ty khác nhau theo quy định pháp luật và giấy phép tại các quốc gia tương ứng.",
+    "txt3": "HF Markets (SV) Ltd: HF Markets (SV) Ltd được đăng ký tại Saint Vincent và the Grenadines, với mã doanh nghiệp 22747 IBC 2015. Địa chỉ đăng ký của công ty là Suite 305, Griffith Corporate Centre, P.O. Box 1510, Beachmont Kingstown, Saint Vincent và the Grenadines. Công ty này hoạt động dưới sự giám sát của cơ quan pháp lý của quốc gia này.",
+    "txt4": "HF Markets SA (PTY) Ltd: HF Markets SA (PTY) Ltd là công ty con của HFM, đăng ký tại Nam Phi với mã doanh nghiệp 2015/341406/07. Địa chỉ đăng ký của công ty tại Katherine & West, Suite 18, tầng 2, 114 West Street, Sandton, Johannesburg 2031, Nam Phi. Đây là chi nhánh chịu sự giám sát của các cơ quan quản lý tài chính Nam Phi.",
+    "txt5": "HF Markets (Seychelles) Ltd: HF Markets (Seychelles) Ltd được đăng ký tại Seychelles với mã doanh nghiệp 8419176-1. Địa chỉ đăng ký của công ty tại Room S203A, Tầng 2, khu phức hợp Orion, Victoria, Mahe, Cộng hòa Seychelles. Công ty này hoạt động theo luật pháp và quy định tài chính của Seychelles.",
+    "txt6": "HF Markets Fintech Services Ltd: HF Markets Fintech Services Ltd được đăng ký tại Cyprus, với mã doanh nghiệp HE 348222. Địa chỉ đăng ký của công ty tại Spyrou Kyprianou 50, Irida 3 Tower 7, Larnaca 6057, Cyprus. Công ty này cung cấp dịch vụ tài chính dưới sự giám sát của các cơ quan quản lý tài chính tại Cyprus."
+  },
+  "Contact": {
+    "documentTitle": "HFM - Liên hệ",
+    "contact": "Liên hệ",
+    "txt1": "Hỗ trợ qua Email: Bạn có thể liên hệ với đội ngũ hỗ trợ khách hàng của HFM qua email tại support@hfm.com. Kênh này có sẵn để giải đáp các yêu cầu về dịch vụ, hỗ trợ kỹ thuật hoặc bất kỳ câu hỏi nào khác liên quan đến tài khoản và giao dịch của bạn.",
+    "txt2": "Các Nền tảng Mạng Xã hội: HFM hiện diện trên các nền tảng mạng xã hội như Facebook, Twitter và Instagram. Các nền tảng này giúp bạn cập nhật thông tin mới nhất về các sản phẩm và dịch vụ, cũng như cung cấp một kênh để kết nối và trao đổi thông tin nhanh chóng.",
+    "txt3": "Địa chỉ Trụ sở Chính: Trụ sở chính của HFM được đặt tại HF Markets (SV) Ltd, Suite 305, Griffith Corporate Centre, P.O. Box 1510, Beachmont Kingstown, Saint Vincent và the Grenadines. Đây là địa chỉ chính thức để gửi thư trực tiếp hoặc các văn bản pháp lý."
+  }
 }
