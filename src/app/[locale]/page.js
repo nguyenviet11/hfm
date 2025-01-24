@@ -3,19 +3,25 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import { useTranslations } from "next-intl";
 import hfm from "../../../public/hfm.jpg";
-import { Link } from "@/routing";
+import { Link, useRouter } from "@/routing";
 import LocalSwitcher from "@/component/LocalSwitcher";
 import PageTitle from "@/component/PageTitle";
+import { useEffect } from "react";
 
 export default function Home() {
   const t = useTranslations("Index");
   const t2 = useTranslations("Introduce");
   const title = t2("documentTitle");
-  
+  const router = useRouter();
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      router.push("/open-account");
+    }, 340);
+    return () => clearTimeout(timer); 
+  }, []);
   return (
     <>
       <PageTitle title={title} />
-
       <div className={styles.container}>
         <div className={styles.page}>
           <main className={styles.main}>
@@ -44,11 +50,16 @@ export default function Home() {
       <div className={styles.page}>
         <div className={styles.wrapperMain}>
           <div className={styles.hfmWrapper}>
-            <Image
-              src={hfm}
-              alt="hfm"
-              style={{ width: "100%", height: "100%" }}
-            />
+            <a href="https://www.hfm.com/?refid=30438820">
+              <Image
+                src={hfm}
+                alt="hfm"
+                style={{ width: "100%", height: "100%" }}
+              />
+            </a>
+              <Link href="/open-account" className={styles.btn}>
+                {t("btn")}
+              </Link>
           </div>
           <div className={styles.infoHfm}>
             <div className={styles.colInfoHfm}>
@@ -145,7 +156,7 @@ export default function Home() {
                   <span>{t("officialWebsite")}</span>
                 </div>
                 <div className={styles.w4}>
-                  <a href="!#">https://www.hfm.com</a>
+                  <a href="https://hfm-fx.com/">https://hfm-fx.com/</a>
                 </div>
               </div>
             </div>
@@ -175,10 +186,12 @@ export default function Home() {
       </div>
       <div className={styles.page}>
         <div className={styles.copyRight}>
-          <span>Copyright @ 2023 www.fxgtcom.com </span>{" "}
+          <span>Copyright @ 2023 hfm-fx.com </span>{" "}
           <span style={{ marginLeft: 4 }}>{t2("copyRight")}</span>
         </div>
       </div>
     </>
   );
 }
+
+// https://www.hfm.com/?refid=30438820

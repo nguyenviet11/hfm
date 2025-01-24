@@ -29,7 +29,8 @@
       "mobileApplicationC2": "iOSおよびAndroidに対応",
       "depositWithdrawC2": "銀行振込、VISA、Mastercard、電子マネー、Fastpay、Neteller、Skrill、Bitpay、PayRedeem、ローカル銀行振込、ローカル電子ウォレット（Momo Wallet、Nganluong）",
       "supportC2": "24/5（ベトナム語サポートあり）",
-      "officialWebsiteC2": "https://www.hfm.com"
+      "officialWebsiteC2": "https://www.hfm.com",
+      "btn": "今すぐ参加して登録しましょう"
     },
     "Introduce": {
       "documentTitle": "HFM | オンライン取引 | 規制されたFXブローカー",
