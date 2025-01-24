@@ -57,7 +57,7 @@ const page = () => {
       </div>
       <div className={styles.page}>
         <div className={styles.copyRight}>
-          <span>Copyright @ 2023 www.fxgtcom.com </span>{" "}
+          <span>Copyright @ 2023 www.fxgtcom.com </span>{"  "}
           <span style={{ marginLeft: 4 }}>{t2("copyRight")}</span>
         </div>
       </div>
