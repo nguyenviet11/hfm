@@ -1,3 +1,5 @@
+'use client'
+
 import { Link } from "@/routing";
 import styles from "./page.module.css";
 import React from "react";
