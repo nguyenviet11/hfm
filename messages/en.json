@@ -83,19 +83,19 @@
     "txt6": "Margin Bonus Account: The Margin Bonus Account is suitable for traders who want to receive bonuses from deposits. The trading platforms for this account include HFM's proprietary platform and other popular platforms such as MetaTrader 4, MetaTrader 5, and WebTrader. The spread starts from 1.4 pips, with no minimum deposit required, but the maximum leverage is limited to 1:170. This account does not offer an overnight fee waiver and does not support personal account management."
   },
   "Regulation": {
-    "documentTitle": "HFM - Quy định",
-    "txt1": "Quy định",
-    "txt2": "HFM.com là một thương hiệu và nhãn hiệu đã được đăng ký hợp lệ, được quản lý và ủy quyền bởi nhiều công ty khác nhau theo quy định pháp luật và giấy phép tại các quốc gia tương ứng.",
-    "txt3": "HF Markets (SV) Ltd: HF Markets (SV) Ltd được đăng ký tại Saint Vincent và the Grenadines, với mã doanh nghiệp 22747 IBC 2015. Địa chỉ đăng ký của công ty là Suite 305, Griffith Corporate Centre, P.O. Box 1510, Beachmont Kingstown, Saint Vincent và the Grenadines. Công ty này hoạt động dưới sự giám sát của cơ quan pháp lý của quốc gia này.",
-    "txt4": "HF Markets SA (PTY) Ltd: HF Markets SA (PTY) Ltd là công ty con của HFM, đăng ký tại Nam Phi với mã doanh nghiệp 2015/341406/07. Địa chỉ đăng ký của công ty tại Katherine & West, Suite 18, tầng 2, 114 West Street, Sandton, Johannesburg 2031, Nam Phi. Đây là chi nhánh chịu sự giám sát của các cơ quan quản lý tài chính Nam Phi.",
-    "txt5": "HF Markets (Seychelles) Ltd: HF Markets (Seychelles) Ltd được đăng ký tại Seychelles với mã doanh nghiệp 8419176-1. Địa chỉ đăng ký của công ty tại Room S203A, Tầng 2, khu phức hợp Orion, Victoria, Mahe, Cộng hòa Seychelles. Công ty này hoạt động theo luật pháp và quy định tài chính của Seychelles.",
-    "txt6": "HF Markets Fintech Services Ltd: HF Markets Fintech Services Ltd được đăng ký tại Cyprus, với mã doanh nghiệp HE 348222. Địa chỉ đăng ký của công ty tại Spyrou Kyprianou 50, Irida 3 Tower 7, Larnaca 6057, Cyprus. Công ty này cung cấp dịch vụ tài chính dưới sự giám sát của các cơ quan quản lý tài chính tại Cyprus."
+    "documentTitle": "HFM - Regulations",
+    "txt1": "Regulations",
+    "txt2": "HFM.com is a validly registered brand and trademark, authorized and regulated by various companies in compliance with the laws and licenses of their respective jurisdictions.",
+    "txt3": "HF Markets (SV) Ltd: HF Markets (SV) Ltd is registered in Saint Vincent and the Grenadines under company number 22747 IBC 2015. The company’s registered address is Suite 305, Griffith Corporate Centre, P.O. Box 1510, Beachmont Kingstown, Saint Vincent and the Grenadines. This entity operates under the oversight of the local regulatory authority of Saint Vincent and the Grenadines.",
+    "txt4": "HF Markets SA (PTY) Ltd: HF Markets SA (PTY) Ltd is a subsidiary of HFM, registered in South Africa under company number 2015/341406/07. Its registered address is Katherine & West, Suite 18, 2nd Floor, 114 West Street, Sandton, Johannesburg 2031, South Africa. This branch operates under the supervision of South Africa's financial regulatory authorities",
+    "txt5": "HF Markets (Seychelles) Ltd: HF Markets (Seychelles) Ltd is registered in Seychelles under company number 8419176-1. The company’s registered address is Room S203A, 2nd Floor, Orion Complex, Victoria, Mahe, Republic of Seychelles. This entity operates in accordance with the financial laws and regulations of Seychelles",
+    "txt6": "HF Markets Fintech Services Ltd: HF Markets Fintech Services Ltd is registered in Cyprus under company number HE 348222. The company’s registered address is Spyrou Kyprianou 50, Irida 3 Tower 7, Larnaca 6057, Cyprus. It provides financial services under the supervision of Cyprus's financial regulatory authorities."
   },
   "Contact": {
-    "documentTitle": "HFM - Liên hệ",
-    "contact": "Liên hệ",
-    "txt1": "Hỗ trợ qua Email: Bạn có thể liên hệ với đội ngũ hỗ trợ khách hàng của HFM qua email tại support@hfm.com. Kênh này có sẵn để giải đáp các yêu cầu về dịch vụ, hỗ trợ kỹ thuật hoặc bất kỳ câu hỏi nào khác liên quan đến tài khoản và giao dịch của bạn.",
-    "txt2": "Các Nền tảng Mạng Xã hội: HFM hiện diện trên các nền tảng mạng xã hội như Facebook, Twitter và Instagram. Các nền tảng này giúp bạn cập nhật thông tin mới nhất về các sản phẩm và dịch vụ, cũng như cung cấp một kênh để kết nối và trao đổi thông tin nhanh chóng.",
-    "txt3": "Địa chỉ Trụ sở Chính: Trụ sở chính của HFM được đặt tại HF Markets (SV) Ltd, Suite 305, Griffith Corporate Centre, P.O. Box 1510, Beachmont Kingstown, Saint Vincent và the Grenadines. Đây là địa chỉ chính thức để gửi thư trực tiếp hoặc các văn bản pháp lý."
+    "documentTitle": "HFM - Contact",
+    "contact": "Contact",
+    "txt1": "Email Support: You can contact HFM’s customer support team via email at support@hfm.com. This channel is available to address service inquiries, technical support, or any other questions related to your account and trading.",
+    "txt2": "Social Media Platforms: HFM is active on social media platforms like Facebook, Twitter, and Instagram. These platforms provide the latest updates on products and services and serve as a channel for quick connection and communication.",
+    "txt3": "Headquarters Address: HFM's headquarters is located at HF Markets (SV) Ltd, Suite 305, Griffith Corporate Centre, P.O. Box 1510, Beachmont Kingstown, Saint Vincent and the Grenadines. This is the official address for direct mail or legal correspondence."
   }
 }

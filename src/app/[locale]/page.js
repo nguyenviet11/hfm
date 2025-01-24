@@ -2,14 +2,19 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import { useTranslations } from "next-intl";
 import hfm from "../../../public/hfm.jpg";
-import { Link } from '@/routing'
+import { Link } from "@/routing";
 import LocalSwitcher from "@/component/LocalSwitcher";
+import PageTitle from "@/component/PageTitle";
 
 export default function Home() {
   const t = useTranslations("Index");
   const t2 = useTranslations("Introduce");
+  const title = t2("documentTitle");
+  
   return (
     <>
+      <PageTitle title={title} />
+
       <div className={styles.container}>
         <div className={styles.page}>
           <main className={styles.main}>
@@ -71,7 +76,7 @@ export default function Home() {
                 </div>
               </div>
               <div className={styles.mt2}>
-                <div className={styles.w3}> 
+                <div className={styles.w3}>
                   <span>{t("tradingProduct")}</span>
                 </div>
                 <div className={styles.w4}>
@@ -103,12 +108,12 @@ export default function Home() {
                 </div>
               </div>
               <div className={styles.mt2}>
-              <div className={styles.w3}>
-                <span>{t("tradePlatform")}</span>
-              </div>
-              <div className={styles.w4}>
-                <span>{t("tradePlatformC2")}</span>
-              </div>
+                <div className={styles.w3}>
+                  <span>{t("tradePlatform")}</span>
+                </div>
+                <div className={styles.w4}>
+                  <span>{t("tradePlatformC2")}</span>
+                </div>
               </div>
               <div className={styles.mt2}>
                 <div className={styles.w3}>
@@ -168,10 +173,12 @@ export default function Home() {
         </div>
       </div>
       <div className={styles.page}>
-      <div className={styles.copyRight}>
-        <span>Copyright @ 2023 www.fxgtcom.com </span> <span style={{marginLeft: 4}}>{t2("copyRight")}</span>
+        <div className={styles.copyRight}>
+          <span>Copyright @ 2023 www.fxgtcom.com </span>{" "}
+          <span style={{ marginLeft: 4 }}>{t2("copyRight")}</span>
+        </div>
       </div>
-</div>
     </>
   );
 }
+

@@ -47,7 +47,7 @@ const page = () => {
             <p className={styles.txtTitle2}>{t3("txt3")}</p>
             <p className={styles.txtTitle2}>{t3("txt4")}</p>
             <p className={styles.txtTitle2}>{t3("txt5")}</p>
-            <p className={styles.txtTitle1}>{t3("txt6")}</p>
+            <p className={styles.txtTitle1} style={{marginTop: 20}}>{t3("txt6")}</p>
             <p className={styles.txtTitle2}>{t3("txt7")}</p>
             <p className={styles.txtTitle2}>{t3("txt8")}</p>
             <p className={styles.txtTitle2}>{t3("txt9")}</p>
@@ -71,3 +71,5 @@ const page = () => {
 };
 
 export default page;
+
+

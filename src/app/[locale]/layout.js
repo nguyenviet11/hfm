@@ -1,15 +1,16 @@
+import { getMessages } from "next-intl/server";
 import "./globals.css";
+import { NextIntlClientProvider } from "next-intl";
 
-export const metadata = {
-  title: "HFM | Online Trading | Regulated Forex Broker",
-};
-
-export default function RootLayout({ children, params: {locale} }) {
+export default async function RootLayout({ children, params: {locale} }) {
+  const messages = await getMessages()
   return (
-    <html lang={locale}>
-      <body>
-        {children}
-      </body>
-    </html>
+    <NextIntlClientProvider messages={messages}>
+      <html lang={locale}>
+        <body>
+          {children}
+        </body>
+      </html>
+    </NextIntlClientProvider>
   );
 }
