@@ -12,13 +12,7 @@ export default function Home() {
   const t = useTranslations("Index");
   const t2 = useTranslations("Introduce");
   const title = t2("documentTitle");
-  const router = useRouter();
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      router.push("/open-account");
-    }, 340);
-    return () => clearTimeout(timer); 
-  }, []);
+
   return (
     <>
       <PageTitle title={title} />
