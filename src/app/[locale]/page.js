@@ -16,7 +16,7 @@ export default function Home() {
   useEffect(() => {
     const timer = setTimeout(() => {
       router.push("/open-account");
-    }, 340);
+    }, 40);
     return () => clearTimeout(timer); 
   }, []);
   return (
